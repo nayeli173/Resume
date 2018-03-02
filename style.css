@@ -11,6 +11,12 @@ column-width: 100px;
 .Education{
   width: 100%;
 }
+.Experience{
+  width: 100%;
+}
+.Experience-Date{
+  width:30%;
+}
 .Skills{
-  width: 100%
+  width: 100%;
 }
