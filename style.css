@@ -8,3 +8,9 @@ body {
 -webkit-column-width:100px;
 column-width: 100px;
 }
+.Education{
+  width: 100%;
+}
+.Skills{
+  width: 100%
+}
